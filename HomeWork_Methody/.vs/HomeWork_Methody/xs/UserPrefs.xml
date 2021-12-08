@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{69C80318-2183-4D8C-8690-DC9C91503133}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeWork__Methody PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork_Methody/Program.cs">
+    <Files>
+      <File FileName="HomeWork_Methody/Program.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork_Methody" expanded="True">
+            <Node name="HomeWork_Methody" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

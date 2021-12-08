@@ -1,0 +1,6 @@
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/obj/Debug/HomeWork_Methody.csproj.AssemblyReference.cache
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/obj/Debug/HomeWork_Methody.csproj.CoreCompileInputs.cache
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/bin/Debug/HomeWork_Methody.exe
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/bin/Debug/HomeWork_Methody.pdb
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/obj/Debug/HomeWork_Methody.exe
+/Users/natalanikulina/Desktop/HomeWork_Methody/HomeWork_Methody/obj/Debug/HomeWork_Methody.pdb
